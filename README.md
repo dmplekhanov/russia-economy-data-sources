@@ -10,7 +10,7 @@ _разделы официальных сайтов, посвященные ст
 - [Банк России](https://cbr.ru/statistics/)
 - [Минфин России](https://minfin.gov.ru/ru/statistics/)
 - [Министерство экономического развития
-Российской Федерации](https://economy.gov.ru/material/directions/makroec/ekonomicheskie_obzory/)
+Российской Федерации](https://economy.gov.ru/material/directions/makroec/ekonomicheskie_obzory/) - Экономические обзоры
 - [Федеральная таможенная служба](https://customs.gov.ru/statistic)
 
 
