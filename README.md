@@ -24,6 +24,8 @@ _разделы официальных сайтов, посвященные ст
   - [изменение потребительских расходов](https://sberindex.ru/ru/dashboards/ver-izmenenie-trat-po-kategoriyam) 
 - [Ассоциация морских торговых портов](https://www.morport.com/rus/content/statistika-0) - статистика
   - [новости](https://www.morport.com/rus/news) - сообщения о грузообороте морских портов с начала года, 10-15 числа каждого месяца
+- [Индикаторы рынка недвижимости IRN.RU](https://www.irn.ru/)
+  - [Индексы цен на недвижимость](https://www.irn.ru/gd/) 
 
 ## Компании
 ### транспорт:
