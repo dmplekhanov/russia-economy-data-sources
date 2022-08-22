@@ -29,6 +29,11 @@ _разделы официальных сайтов, посвященные ст
 - [Магнит](https://www.magnit.com/ru/shareholders-and-investors/presentations/) - операционные результаты за квартал, презентации
 - [X5 Group](https://www.x5.ru/ru/Pages/Investors.aspx) - операционные и финансовые результаты за квартал, презентации
 
+## Опросы общественного мнения
+
+- [Фонд Общественное Мнение (ФОМ)](https://fom.ru/)
+  -  [экономика](https://fom.ru/Ekonomika)
+
 ## Календарь публикации статданных
 
 - [Росстат](https://rosstat.gov.ru/publications-plans) - план выпуска публикаций
