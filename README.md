@@ -33,6 +33,8 @@ _разделы официальных сайтов, посвященные ст
 
 - [Фонд Общественное Мнение (ФОМ)](https://fom.ru/)
   -  [экономика](https://fom.ru/Ekonomika)
+- [ВЦИОМ](https://wciom.ru/)
+  -  [экономика](https://wciom.ru/tematicheskii-katalog/economy)
 
 ## Календарь публикации статданных
 
