@@ -29,6 +29,7 @@ _разделы официальных сайтов, посвященные ст
 ### розничная торговля:
 - [Магнит](https://www.magnit.com/ru/shareholders-and-investors/presentations/) - операционные результаты за квартал, презентации
 - [X5 Group](https://www.x5.ru/ru/Pages/Investors.aspx) - операционные и финансовые результаты за квартал, презентации
+- [М.Видео-Эльдорадо](https://www.mvideoeldorado.ru/ru/shareholders-and-investors)
 
 ## Опросы общественного мнения
 
