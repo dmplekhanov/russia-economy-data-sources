@@ -27,3 +27,9 @@ _разделы официальных сайтов, посвященные ст
 ### розничная торговля:
 - [Магнит](https://www.magnit.com/ru/shareholders-and-investors/presentations/) - операционные результаты за квартал, презентации
 - [X5 Group](https://www.x5.ru/ru/Pages/Investors.aspx) - операционные и финансовые результаты за квартал, презентации
+
+## Календарь публикации статданых
+
+- [Росстат](https://rosstat.gov.ru/publications-plans) - план выпуска публикаций
+  - [анонсы публикаций](https://rosstat.gov.ru/announcements)
+- [Банк России](https://www.cbr.ru/statistics/indcalendar/) - календарь публикации официальной статистической информации Банка России
