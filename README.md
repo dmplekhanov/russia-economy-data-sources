@@ -19,7 +19,7 @@ _разделы официальных сайтов, посвященные ст
 - [Ассоциация Европейского бизнеса в России](https://aebrus.ru/ru/media/press-releases/sales-of-cars-and-light-commercial-vehicles.php) - данные о продажах легковых автомобилей и LCV
 - [СберИндекс](https://sberindex.ru/ru) - оперативная экономическая статистика и открытые данные Сбера
 - [Ассоциация морских торговых портов](https://www.morport.com/rus/content/statistika-0) - статистика
--- [новости](https://www.morport.com/rus/news)
+  - [новости](https://www.morport.com/rus/news)
 
 ## Компании
 ### транспорт:
