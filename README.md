@@ -14,6 +14,6 @@ _разделы официальных сайтов, посвященные ст
 - [Федеральная таможенная служба](https://customs.gov.ru/statistic)
 
 
-## Industry associations and market data providers
+## Отраслевые ассоциации и статистика по рынкам
 
 - [Ассоциация Европейского бизнеса в России](https://aebrus.ru/ru/media/press-releases/sales-of-cars-and-light-commercial-vehicles.php) - данные о продажах легковых автомобилей и LCV
