@@ -13,6 +13,8 @@ _разделы официальных сайтов, посвященные ст
 - [Министерство экономического развития
 Российской Федерации](https://economy.gov.ru/material/directions/makroec/ekonomicheskie_obzory/) - Экономические обзоры
 - [Федеральная таможенная служба](https://customs.gov.ru/statistic)
+- [Росреестр](https://rosreestr.gov.ru/press/) - новости 
+  - [Москва](https://rosreestr.gov.ru/press/archive/reg/) - новости, статистика сделок на первичном и вторичном рынке жилья
 
 
 ## Отраслевые ассоциации и статистика по рынкам
