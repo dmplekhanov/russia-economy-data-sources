@@ -21,4 +21,5 @@ _разделы официальных сайтов, посвященные ст
 
 ## Компании
 
-- [РЖД](https://cargo.rzd.ru/ru/9514?rubricator_id=50) - новости грузовых перевозок
+- [РЖД](https://cargo.rzd.ru/ru/9514?rubricator_id=50) - новости грузовых перевозок, статистика погрузки за месяц
+- [Магнит](https://www.magnit.com/ru/shareholders-and-investors/presentations/) - операционные результаты за квартал, презентации
