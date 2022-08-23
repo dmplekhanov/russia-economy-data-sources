@@ -26,19 +26,23 @@ _разделы сайтов, посвященные публикации дан
   - [продажи новой дорожно-строительной и спецтехники](https://aebrus.ru/ru/media/press-releases/sales-of-new-construction-equipment/) - данные за квартал
 - [Агентство Автостат](https://www.autostat.ru/)
    - [инфографика](https://www.autostat.ru/infographics/)
+
 Морские перевозки
 - [Ассоциация морских торговых портов](https://www.morport.com/rus/content/statistika-0) - статистика
   - [новости](https://www.morport.com/rus/news) - сообщения о грузообороте морских портов с начала года, 10-15 числа каждого месяца
+
 Электроэнергетика
 - [Системный оператор единой энергетической системы](https://www.so-ups.ru/)
   - [Пресс-релизы о выработке и потреблении](https://www.so-ups.ru/news/press-release/news-generation/) - по месяцам
   - [Индикаторы работы ЕЭС/ОЭС](https://www.so-ups.ru/functioning/ups/indicators/ees-gen-consump-hour/)
+
 Рынок недвижимости
 - [Индикаторы рынка недвижимости IRN.RU](https://www.irn.ru/)
   - [Индексы цен на недвижимость](https://www.irn.ru/gd/)
 
 Рынок труда
 - [Статистика рынка труда HeadHunter](https://stats.hh.ru/)
+
 Потребительские расходы
 - [СберИндекс](https://sberindex.ru/ru) - оперативная экономическая статистика и открытые данные Сбера
   - [изменение потребительских расходов](https://sberindex.ru/ru/dashboards/ver-izmenenie-trat-po-kategoriyam) 
@@ -46,6 +50,7 @@ _разделы сайтов, посвященные публикации дан
 ## Компании
 Транспорт:
 - [РЖД](https://cargo.rzd.ru/ru/9514?rubricator_id=50) - новости грузовых перевозок, статистика погрузки за месяц
+
 Розничная торговля:
 - [Магнит](https://www.magnit.com/ru/shareholders-and-investors/presentations/) - операционные результаты за квартал, презентации
 - [X5 Group](https://www.x5.ru/ru/Pages/Investors.aspx) - операционные и финансовые результаты за квартал, презентации
