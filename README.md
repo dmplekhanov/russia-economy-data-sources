@@ -20,7 +20,7 @@ _разделы сайтов, посвященные публикации дан
 - [Федеральное агентство воздушного транспорта (Росавиация)](https://favt.gov.ru/dejatelnost-vozdushnye-perevozki-stat-pokazately/) - не обновляется с февраля 2022
 
 ## Отраслевые ассоциации и статистика по рынкам
-### автопром
+автопром
 - [Ассоциация Европейского бизнеса в России](https://aebrus.ru/ru/)
   - [продажи легковых автомобилей и LCV](https://aebrus.ru/ru/media/press-releases/sales-of-cars-and-light-commercial-vehicles.php) - данные за месяц
   - [продажи новой дорожно-строительной и спецтехники](https://aebrus.ru/ru/media/press-releases/sales-of-new-construction-equipment/) - данные за квартал
