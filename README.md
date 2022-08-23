@@ -28,6 +28,10 @@ _разделы сайтов, посвященные публикации дан
 ### морские перевозки
 - [Ассоциация морских торговых портов](https://www.morport.com/rus/content/statistika-0) - статистика
   - [новости](https://www.morport.com/rus/news) - сообщения о грузообороте морских портов с начала года, 10-15 числа каждого месяца
+### электроэнергетика
+- [Системный оператор единой энергетической системы](https://www.so-ups.ru/)
+  - [Пресс-релизы о выработке и потреблении](https://www.so-ups.ru/news/press-release/news-generation/) - 
+  - [Индикаторы работы ЕЭС/ОЭС](https://www.so-ups.ru/functioning/ups/indicators/ees-gen-consump-hour/)
 ### рынок недвижимости
 - [Индикаторы рынка недвижимости IRN.RU](https://www.irn.ru/)
   - [Индексы цен на недвижимость](https://www.irn.ru/gd/)
