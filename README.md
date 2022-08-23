@@ -13,6 +13,8 @@ _разделы официальных сайтов, посвященные ст
 - [Министерство экономического развития
 Российской Федерации](https://economy.gov.ru/material/directions/makroec/ekonomicheskie_obzory/) - Экономические обзоры
 - [Федеральная таможенная служба](https://customs.gov.ru/statistic)
+- [Федеральная налоговая служба (ФНС)](https://www.nalog.gov.ru/rn77/related_activities/statistics_and_analytics/) - Статистика и аналитика
+  - [Инфографика на основе данных ФНС](https://geochecki-vpd.nalog.gov.ru/#/) - геочеки, самозянятые, статистика ККТ
 - [Росреестр](https://rosreestr.gov.ru/press/) - новости 
   - [Москва](https://rosreestr.gov.ru/press/archive/reg/) - новости, статистика сделок на первичном и вторичном рынке жилья
 - [Федеральное агентство воздушного транспорта (Росавиация)](https://favt.gov.ru/dejatelnost-vozdushnye-perevozki-stat-pokazately/) - не обновляется с февраля 2022
