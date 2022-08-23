@@ -25,6 +25,7 @@ _разделы сайтов, посвященные публикации дан
   - [продажи легковых автомобилей и LCV](https://aebrus.ru/ru/media/press-releases/sales-of-cars-and-light-commercial-vehicles.php) - данные за месяц
   - [продажи новой дорожно-строительной и спецтехники](https://aebrus.ru/ru/media/press-releases/sales-of-new-construction-equipment/) - данные за квартал
 - [Агентство Автостат](https://www.autostat.ru/)
+   - [инфографика](https://www.autostat.ru/infographics/)
 ### морские перевозки
 - [Ассоциация морских торговых портов](https://www.morport.com/rus/content/statistika-0) - статистика
   - [новости](https://www.morport.com/rus/news) - сообщения о грузообороте морских портов с начала года, 10-15 числа каждого месяца
