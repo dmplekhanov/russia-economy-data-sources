@@ -30,7 +30,7 @@ _разделы сайтов, посвященные публикации дан
   - [новости](https://www.morport.com/rus/news) - сообщения о грузообороте морских портов с начала года, 10-15 числа каждого месяца
 ### электроэнергетика
 - [Системный оператор единой энергетической системы](https://www.so-ups.ru/)
-  - [Пресс-релизы о выработке и потреблении](https://www.so-ups.ru/news/press-release/news-generation/) - 
+  - [Пресс-релизы о выработке и потреблении](https://www.so-ups.ru/news/press-release/news-generation/) - по месяцам
   - [Индикаторы работы ЕЭС/ОЭС](https://www.so-ups.ru/functioning/ups/indicators/ees-gen-consump-hour/)
 ### рынок недвижимости
 - [Индикаторы рынка недвижимости IRN.RU](https://www.irn.ru/)
