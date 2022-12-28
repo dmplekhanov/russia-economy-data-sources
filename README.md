@@ -12,12 +12,12 @@ _разделы сайтов, посвященные публикации дан
 - [Минфин России](https://minfin.gov.ru/ru/statistics/)
 - [Министерство экономического развития
 Российской Федерации](https://economy.gov.ru/material/directions/makroec/ekonomicheskie_obzory/) - Экономические обзоры
-- [Федеральная таможенная служба](https://customs.gov.ru/statistic)
+- [Федеральная таможенная служба](https://customs.gov.ru/statistic) - не обновляется с марта 2022 г
 - [Федеральная налоговая служба (ФНС)](https://www.nalog.gov.ru/rn77/related_activities/statistics_and_analytics/) - Статистика и аналитика
   - [Инфографика на основе данных ФНС](https://geochecki-vpd.nalog.gov.ru/#/) - геочеки, самозянятые, статистика ККТ
 - [Росреестр](https://rosreestr.gov.ru/press/) - новости 
   - [Москва](https://rosreestr.gov.ru/press/archive/reg/) - новости, статистика сделок на первичном и вторичном рынке жилья
-- [Федеральное агентство воздушного транспорта (Росавиация)](https://favt.gov.ru/dejatelnost-vozdushnye-perevozki-stat-pokazately/) - не обновляется с февраля 2022
+- [Федеральное агентство воздушного транспорта (Росавиация)](https://favt.gov.ru/dejatelnost-vozdushnye-perevozki-stat-pokazately/) - не обновляется с февраля 2022 г
 - [Генеральная прокуратура РФ](http://crimestat.ru/) - портал правовой статистики
 
 ## Отраслевые ассоциации и статистика по рынкам
