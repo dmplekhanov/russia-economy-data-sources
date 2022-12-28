@@ -34,7 +34,7 @@ _разделы сайтов, посвященные публикации дан
 
 Электроэнергетика
 - [Системный оператор единой энергетической системы](https://www.so-ups.ru/)
-  - [Пресс-релизы о выработке и потреблении](https://www.so-ups.ru/news/press-release/news-generation/) - по месяцам
+  - [Пресс-релизы о выработке и потреблении](https://www.so-ups.ru/news/press-release/news-generation/) - по месяцам, не обновляется с октября 2022 г
   - [Индикаторы работы ЕЭС/ОЭС](https://www.so-ups.ru/functioning/ups/indicators/ees-gen-consump-hour/)
 
 Рынок недвижимости
