@@ -67,6 +67,9 @@ _разделы сайтов, посвященные публикации дан
 
 ## Компании
 
+Финансы:
+- [Сбербанк](https://www.sberbank.com/ru/investor-relations/groupresults?tab=rpbu) - информация по операционным и финансовым показателям
+
 Транспорт:
 - [РЖД](https://cargo.rzd.ru/ru/9514?rubricator_id=50) - новости грузовых перевозок, статистика погрузки за месяц
 - [Аэрофлот](https://ir.aeroflot.ru/ru/news-and-events/investor-news/) - операционные результаты по месяцам
