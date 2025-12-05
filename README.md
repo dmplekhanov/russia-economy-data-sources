@@ -99,3 +99,6 @@ _разделы сайтов, посвященные публикации дан
 - [Росстат](https://rosstat.gov.ru/publications-plans) - план выпуска публикаций
   - [анонсы публикаций](https://rosstat.gov.ru/announcements)
 - [Банк России](https://www.cbr.ru/statistics/indcalendar/) - календарь публикации официальной статистической информации Банка России
+
+## Исторические данные
+- [Статистика Российской империи и СССР](https://istmat.org/statistics)
